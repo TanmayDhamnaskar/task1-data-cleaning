@@ -72,7 +72,7 @@ task1-data-cleaning/
 ```
 ---
 
-## 🎓 About This Project
+## 🎓 About This Task
 This task was undertaken as part of an internship assignment at [**Elevate Lab**](https://www.linkedin.com/company/bebwwijwi/), focused on developing real-world data preprocessing and cleaning skills using Python and Pandas.
 
 ---
