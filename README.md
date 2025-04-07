@@ -1,7 +1,7 @@
 # Task 1: Data Cleaning and Preprocessing
 
 ## 📌 Objective
-Clean and prepare the raw **Medical Appointment No Shows** dataset by handling nulls, removing duplicates, standardizing formats, correcting inconsistencies, and ensuring the data is ready for analysis.
+As part of an internship with [**Elevate Lab**](https://www.linkedin.com/company/bebwwijwi/), the goal was to clean and prepare the raw **Medical Appointment No Shows** dataset by handling nulls, removing duplicates, standardizing formats, correcting inconsistencies, and ensuring the data is ready for analysis.
 
 ## 🧰 Tools Used
 - **Python**
@@ -70,6 +70,11 @@ task1-data-cleaning/
 ├── README.md                             # Project overview and summary
 └── task1_data_cleaning_medical.ipynb     # Notebook with cleaning steps
 ```
+---
+
+## 🎓 About This Project
+This task was undertaken as part of an internship assignment at [**Elevate Lab**](https://www.linkedin.com/company/bebwwijwi/), focused on developing real-world data preprocessing and cleaning skills using Python and Pandas.
+
 ---
 
 ## 💡 Learnings & Takeaways
